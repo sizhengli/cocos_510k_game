@@ -2,7 +2,7 @@
 
 # 项目介绍
 
-- cocos creator 3.85 版本 + node（服务） + mysql（数据库） 开发斗地主<strong>微信</strong>游戏 Demo
+- cocos creator 3.85 版本 + node（服务） + mysql（数据库） 开发510k<strong>微信</strong>游戏 Demo
 - nodejs 服务中，斗地主<strong>游戏中状态</strong>都是存储在<strong>内存中</strong>，比如玩家扑克牌、房间信息、准备状态、游戏状态等，游戏对局结束会存储玩家对局信息入库，游戏中不会存储状态（设计初觉得游戏对局中状态频繁写入数据库太过麻烦，可能还有延迟，后期也不想改用 Redis 数据库）
 
 # 1、数据库初始化
