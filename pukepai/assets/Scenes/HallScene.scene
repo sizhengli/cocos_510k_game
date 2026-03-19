@@ -217,7 +217,7 @@
     "_priority": 1073741824,
     "_fov": 39.5,
     "_fovAxis": 0,
-    "_orthoHeight": 409.5459352280238,
+    "_orthoHeight": 408.9105199516324,
     "_near": 1,
     "_far": 1000,
     "_color": {
@@ -705,8 +705,8 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -0.104,
-      "y": -3.961,
+      "x": 0.11799999999999988,
+      "y": -2.9610000000000003,
       "z": 0
     },
     "_lrot": {
@@ -805,8 +805,8 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 70,
-      "height": 70
+      "width": 63,
+      "height": 63
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -827,10 +827,10 @@
     "__prefab": null,
     "_alignFlags": 12,
     "_target": null,
-    "_left": 15,
+    "_left": 18.5,
     "_right": 0,
     "_top": 281.628,
-    "_bottom": 12.1315,
+    "_bottom": 15.631500000000003,
     "_horizontalCenter": 0,
     "_verticalCenter": 0,
     "_isAbsLeft": true,
@@ -868,17 +868,11 @@
       "b": 255,
       "a": 255
     },
-    "atlas": {
-      "__uuid__": "beb06ef2-e263-4d2e-a04a-6e704f9994e3",
-      "__expectedType__": "cc.SpriteAtlas"
-    },
-    "_spriteFrame": {
-      "__uuid__": "beb06ef2-e263-4d2e-a04a-6e704f9994e3@6e07d",
-      "__expectedType__": "cc.SpriteFrame"
-    },
+    "atlas": null,
+    "_spriteFrame": null,
     "_sizeMode": 0,
     "_segment": 5,
-    "_radius": 25,
+    "_radius": 12,
     "_corner": {
       "__id__": 23
     },
@@ -1039,7 +1033,7 @@
     "_string": "",
     "_horizontalAlign": 0,
     "_verticalAlign": 1,
-    "_actualFontSize": 22.68365817091454,
+    "_actualFontSize": 20.458022171947015,
     "_fontSize": 20,
     "_fontFamily": "Arial",
     "_lineHeight": 20,
@@ -1248,7 +1242,7 @@
     "_string": "ID:",
     "_horizontalAlign": 0,
     "_verticalAlign": 1,
-    "_actualFontSize": 22.68365817091454,
+    "_actualFontSize": 20.458022171947015,
     "_fontSize": 20,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -1555,7 +1549,7 @@
     "_string": "",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 28.35457271364318,
+    "_actualFontSize": 25.57252771493377,
     "_fontSize": 25,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
